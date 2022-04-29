@@ -28,5 +28,20 @@ JavaScript Debug:
 - Fejlesztőkörnyezetben (VSCode)
 
 
+(Számítógép név (Hostname)
+IP cím  localhost = 127.0.0.1
+)
 
+HF: 
+prímszám vizsgálat
+
+Fogalmak:
+- algoritmus fogalma
+- folyamat ábra
+    - szekvencia
+    - szelekció
+    - interáció
+- folyamat ábra
+
+http://draw.io
 
